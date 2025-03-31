@@ -1,4 +1,4 @@
-# Extracteur de Données Google Search Console
+# Extracteur de données Google Search Console
 
 ## Description
 
