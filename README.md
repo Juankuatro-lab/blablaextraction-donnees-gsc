@@ -119,14 +119,6 @@ Les contributions sont les bienvenues ! Veuillez :
 - Créer une branche pour votre fonctionnalité
 - Soumettre une pull request
 
-## Licence
-
-[Spécifiez votre licence]
-
-## Avertissement
-
-Cette application n'est pas officiellement liée à Google. Elle utilise l'API Google Search Console sous réserve des conditions de service de Google.
-
 ## Contact
 
 [Vos informations de contact ou lien vers le dépôt GitHub]
