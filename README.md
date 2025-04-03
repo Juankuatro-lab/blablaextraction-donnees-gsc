@@ -118,7 +118,3 @@ Les contributions sont les bienvenues ! Veuillez :
 - Forker le dépôt
 - Créer une branche pour votre fonctionnalité
 - Soumettre une pull request
-
-## Contact
-
-[Vos informations de contact ou lien vers le dépôt GitHub]
